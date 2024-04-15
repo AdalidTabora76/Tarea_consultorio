@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adali\\source\\repos\\Tarea_consultorio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8779C081-FCBF-4DF9-A13E-7D2CE44E65CF}|Tarea_consultorio\\Tarea_consultorio.csproj|c:\\users\\adali\\source\\repos\\tarea_consultorio\\tarea_consultorio\\capapresentacion\\medicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8779C081-FCBF-4DF9-A13E-7D2CE44E65CF}|Tarea_consultorio\\Tarea_consultorio.csproj|solutionrelative:tarea_consultorio\\capapresentacion\\medicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8779C081-FCBF-4DF9-A13E-7D2CE44E65CF}|Tarea_consultorio\\Tarea_consultorio.csproj|C:\\Users\\adali\\source\\repos\\Tarea_consultorio\\tarea_consultorio\\capapresentacion\\medicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8779C081-FCBF-4DF9-A13E-7D2CE44E65CF}|Tarea_consultorio\\Tarea_consultorio.csproj|solutionrelative:tarea_consultorio\\capapresentacion\\medicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8779C081-FCBF-4DF9-A13E-7D2CE44E65CF}|Tarea_consultorio\\Tarea_consultorio.csproj|C:\\Users\\adali\\source\\repos\\Tarea_consultorio\\tarea_consultorio\\capanegocio\\cn_medicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8779C081-FCBF-4DF9-A13E-7D2CE44E65CF}|Tarea_consultorio\\Tarea_consultorio.csproj|solutionrelative:tarea_consultorio\\capanegocio\\cn_medicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8779C081-FCBF-4DF9-A13E-7D2CE44E65CF}|Tarea_consultorio\\Tarea_consultorio.csproj|C:\\Users\\adali\\source\\repos\\Tarea_consultorio\\tarea_consultorio\\capanegocio\\cn_paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8779C081-FCBF-4DF9-A13E-7D2CE44E65CF}|Tarea_consultorio\\Tarea_consultorio.csproj|solutionrelative:tarea_consultorio\\capanegocio\\cn_paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8779C081-FCBF-4DF9-A13E-7D2CE44E65CF}|Tarea_consultorio\\Tarea_consultorio.csproj|C:\\Users\\adali\\source\\repos\\Tarea_consultorio\\tarea_consultorio\\capanegocio\\cn_cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8779C081-FCBF-4DF9-A13E-7D2CE44E65CF}|Tarea_consultorio\\Tarea_consultorio.csproj|solutionrelative:tarea_consultorio\\capanegocio\\cn_cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8779C081-FCBF-4DF9-A13E-7D2CE44E65CF}|Tarea_consultorio\\Tarea_consultorio.csproj|C:\\Users\\adali\\source\\repos\\Tarea_consultorio\\tarea_consultorio\\capadatos\\cd_cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8779C081-FCBF-4DF9-A13E-7D2CE44E65CF}|Tarea_consultorio\\Tarea_consultorio.csproj|solutionrelative:tarea_consultorio\\capadatos\\cd_cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Medicos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\adali\\source\\repos\\Tarea_consultorio\\Tarea_consultorio\\CapaPresentacion\\Medicos.cs",
+              "RelativeDocumentMoniker": "Tarea_consultorio\\CapaPresentacion\\Medicos.cs",
+              "ToolTip": "C:\\Users\\adali\\source\\repos\\Tarea_consultorio\\Tarea_consultorio\\CapaPresentacion\\Medicos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Tarea_consultorio\\CapaPresentacion\\Medicos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T01:21:18.142Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Medicos.cs",
+              "DocumentMoniker": "C:\\Users\\adali\\source\\repos\\Tarea_consultorio\\Tarea_consultorio\\CapaPresentacion\\Medicos.cs",
+              "RelativeDocumentMoniker": "Tarea_consultorio\\CapaPresentacion\\Medicos.cs",
+              "ToolTip": "C:\\Users\\adali\\source\\repos\\Tarea_consultorio\\Tarea_consultorio\\CapaPresentacion\\Medicos.cs",
+              "RelativeToolTip": "Tarea_consultorio\\CapaPresentacion\\Medicos.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAxwC8AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T02:00:55.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CN_Medicos.cs",
+              "DocumentMoniker": "C:\\Users\\adali\\source\\repos\\Tarea_consultorio\\Tarea_consultorio\\CapaNegocio\\CN_Medicos.cs",
+              "RelativeDocumentMoniker": "Tarea_consultorio\\CapaNegocio\\CN_Medicos.cs",
+              "ToolTip": "C:\\Users\\adali\\source\\repos\\Tarea_consultorio\\Tarea_consultorio\\CapaNegocio\\CN_Medicos.cs",
+              "RelativeToolTip": "Tarea_consultorio\\CapaNegocio\\CN_Medicos.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAkwB8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T02:13:38.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CN_Paciente.cs",
+              "DocumentMoniker": "C:\\Users\\adali\\source\\repos\\Tarea_consultorio\\Tarea_consultorio\\CapaNegocio\\CN_Paciente.cs",
+              "RelativeDocumentMoniker": "Tarea_consultorio\\CapaNegocio\\CN_Paciente.cs",
+              "ToolTip": "C:\\Users\\adali\\source\\repos\\Tarea_consultorio\\Tarea_consultorio\\CapaNegocio\\CN_Paciente.cs",
+              "RelativeToolTip": "Tarea_consultorio\\CapaNegocio\\CN_Paciente.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T00:41:33.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CD_Cita.cs",
+              "DocumentMoniker": "C:\\Users\\adali\\source\\repos\\Tarea_consultorio\\Tarea_consultorio\\CapaDatos\\CD_Cita.cs",
+              "RelativeDocumentMoniker": "Tarea_consultorio\\CapaDatos\\CD_Cita.cs",
+              "ToolTip": "C:\\Users\\adali\\source\\repos\\Tarea_consultorio\\Tarea_consultorio\\CapaDatos\\CD_Cita.cs",
+              "RelativeToolTip": "Tarea_consultorio\\CapaDatos\\CD_Cita.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T00:38:46.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CN_Cita.cs",
+              "DocumentMoniker": "C:\\Users\\adali\\source\\repos\\Tarea_consultorio\\Tarea_consultorio\\CapaNegocio\\CN_Cita.cs",
+              "RelativeDocumentMoniker": "Tarea_consultorio\\CapaNegocio\\CN_Cita.cs",
+              "ToolTip": "C:\\Users\\adali\\source\\repos\\Tarea_consultorio\\Tarea_consultorio\\CapaNegocio\\CN_Cita.cs",
+              "RelativeToolTip": "Tarea_consultorio\\CapaNegocio\\CN_Cita.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T00:38:44.612Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
